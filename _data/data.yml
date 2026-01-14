@@ -31,11 +31,11 @@ sidebar:
     skills:
       title: Skills
       toolset:
-        - name:  Unity3D, Unity UI, Unity Editor Scripting
+        - name:  C++, C#, Unity, Anvil (Ubisoft), Unreal Engine (experience)
+        - name:  UI Architecture, UX Flow Logic, UI Tooling, Gameplay-driven UI
+        - name:  Git, Perforce, Jira, Agile/Scrum, Code Reviews, Mentoring
         - name:  Vuforia, Google ARCore, Wikitude AR SDK
         - name:  Ad SDKs, Analytics SDKs
-        - name:  git, SVN
-        - name:  Unreal Engine 4, Maya, 3Ds Max, Photoshop
 
     qualifications:
       - desc: Experience in mobile games and AR applications.
@@ -49,9 +49,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Game Programmer and a CG Artist with over 10 years of overall experience in Games development, AR Applications and CG.
-
-      My key skills include prototyping and developing gameplay, developing UI/UX with design team, integrating Ads and IAPs, debugging the application to make it more robust as well as mentoring junior team mates and helping them in problem/bug solving. All this along with skills in Maya, 3Ds Max, Unreal Engine as well as basics of C++ and python. 
+      Senior Games Programmer with 13+ years of professional experience across AAA, VR, AR, and mobile titles.
+      Strong focus on UI/UX programming, gameplay systems, and tools development with proven leadership experience.
+      Shipped AAA titles including Assassin’s Creed Nexus VR, Just Dance 2025/2026, and Skull and Bones.
+ 
 education:
     - degree: PG Diploma in Information Technologies(management)
       university: Symbiosis Distance Learning, Pune
@@ -70,7 +71,10 @@ experiences:
       time: 2020 - ????
       company: Ubisoft, Mumbai
       details: |
-          - Programmer on a VR project being developed in Unity.
+          - Assassin’s Creed NexusVR (2020–Oct 2023): Gameplay systems, tools & tech, select UI features, hiring manager
+          - Just Dance 2025 & 2026 (Nov 2023–Nov 2024): Acting Lead; built Party Mode from scratch
+          - Skull and Bones (Dec 2024–Oct 2025): UI systems, gameplay contributions
+          - Leadership: Managed 3–5 engineers, code reviews, 1:1s, sprint planning, design discussions
     - role: Software Engineer - Tech
       time: 2019 - 2020
       company: Byjus - The Learning App, Bangalore
@@ -121,7 +125,6 @@ experiences:
       company: Musica Animatics, Mumbai
       details: |
           - Responsible for creation of storyboard animatics using Adobe After Effects and rendering 3D backgrounds and props for the same with 3Ds Max. Projects included pre-production of ad commercials for brands such as Kellogg’s and Cadbury.
-
 
 projects:
     title: Side Projects
