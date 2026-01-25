@@ -67,64 +67,41 @@ education:
       time: 2003 - 2007
       details: |
 experiences:
-    - role: Unity Programmer
-      time: 2020 - ????
+    - role: Associate Lead Programmer
+      time: 2020 - Present
       company: Ubisoft, Mumbai
       details: |
-          - Assassin’s Creed NexusVR (2020–Oct 2023): Gameplay systems, tools & tech, select UI features, hiring manager
-          - Just Dance 2025 & 2026 (Nov 2023–Nov 2024): Acting Lead; built Party Mode from scratch
-          - Skull and Bones (Dec 2024–Oct 2025): UI systems, gameplay contributions
-          - Leadership: Managed 3–5 engineers, code reviews, 1:1s, sprint planning, design discussions
+          - Contributed to AAA productions including Assassin’s Creed Nexus VR, Just Dance 2025/2026, and Skull and Bones.
+          - Worked across gameplay systems, UI features, tools & tech, and shared engine functionality.
+          - Acting Lead on Just Dance 2026, owning feature development (Party Mode) from design through delivery.
+          - Led small teams, conducted code reviews, mentored engineers, and collaborated closely with cross-discipline partners.
     - role: Software Engineer - Tech
       time: 2019 - 2020
       company: Byjus - The Learning App, Bangalore
       details: |
-          - Software Engineering role in Osmo Worksheets team.
-          - Responsible for working on new features to Osmo Worksheets product of Byjus as well as debugging existing code in Unity based frontend.
-          - Prototyping ideas shared by content design team.
+          - Worked on a live AR-based educational product, contributing to feature development, prototyping, and optimization.
     - role: Senior Software Engineer
       time: 2018 - 2019
       company: Whodat, Bangalore
       details: |
-          - Develop corporate Augmented Reality applications using various AR SDKs.
-          - Checking technical feasibility of and prototyping AR SDKs before beginning work on an application.
-          - Prototyped and developed an AR application for Indoor Navigation in iOS using ARKit.
-          - Developed an internal AR applicatin for an automobile giant using Vuforia Model Targets.
+          - Developed AR applications and interactive systems with strong emphasis on UX, performance, and maintainability.
     - role: Senior Unity Developer
-      time: 2018 - 2018
-      company: Games2Win, Mumbai
-      details: |
-          - Promoted as a senior developer.
-          - In addition to my own responsibilities as a developer, I also help other teammates in debugging and problem solving for their projects.
-          - Creating editor tools to pace project pipeline.
-          - Creating documentations for new systems, tools and prototypes for knowledge sharing and guiding others.
-          - Mentoring new team members.
-    - role: Unity Developer
       time: 2014 - 2018
       company: Games2Win, Mumbai
       details: |
-          - Develop, update and port various Android and iOS games using C# with Unity3D.
-          - Creating gameplay systems, UI flows, game services as well as integrating IAPs, and Ads.
-          - Writing dynamic data fetching systems with WebRequests and JSONs.
-          - Debugging and optimising existing games for performance during updates.
-          - Prototyping new tools and technologies.
-          - Single-handedly developed Fab Tattoo Design Studio, which has over 1 million downloads and reached #1 in US, India and around 50 other countries in RPG category on Google Play Store.
-          - Created gameplay for cricket games such as Master Blaster T20, Cricket Champs, Gully Cricket, that went to top 5 list in Sports category on Google Play Store.
-          - Successfully implemented a custom mechanism, Yoyo, to show in-game ads for other Games2Win games by fetching JSON data from server.
-          - Wrote a custom shader in Unity with CG that shows multiple textures on top of one another and includes masking for 2 coloring games.
-          - Successfully ported company’s first game to Tizen OS in coordination with Samsung Developers and set guidelines for others to achieve porting to the same.
+          - Shipped multiple mobile games with 500K–1M+ downloads.
+          - Developed gameplay, UI, and live-game features; integrated analytics and monetization.
+          - Built editor tools and optimized performance across Android and iOS.
     - role: Game Engineer/Artist
       time: 2012 - 2014
       company: Wings Intellect, Mumbai
       details: |
-          - Developed multiple edu-games in Unity3D as gameplay programmer.
-          - Environment/Props creation with Autodesk Maya. Worked on level editing, material creation, camera sequence creation and particle effects in Unreal Engine and Unity3D
-          - Responsible for production coordination between modelling, texturing and animation teams to keep track of assets during development.
+          - Integrated assets into UDK and Unity, created materials, and gained early experience with gameplay logic and engine workflows.
     - role: Graphics Artist
       time: 2009 - 2012
       company: Musica Animatics, Mumbai
       details: |
-          - Responsible for creation of storyboard animatics using Adobe After Effects and rendering 3D backgrounds and props for the same with 3Ds Max. Projects included pre-production of ad commercials for brands such as Kellogg’s and Cadbury.
+          - Created and composited 3D backgrounds for commercial animatics using After Effects.
 
 projects:
     title: Side Projects
